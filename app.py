@@ -78,3 +78,6 @@ if __name__ == '__main__':
         port=app.config['PORT'],
         debug=app.config['DEBUG']
     )
+
+# For gunicorn/production deployment
+app = create_app(os.getenv('FLASK_ENV', 'production'))
