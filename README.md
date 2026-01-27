@@ -35,7 +35,7 @@ A Flask web application for weather forecasting using OpenWeatherMap API, featur
 
 ```bash
 git clone <repository-url>
-cd "Vijender Weather Forecasting App"
+cd "Weather Forecasting App"
 ```
 
 ### Step 2: Create Virtual Environment
