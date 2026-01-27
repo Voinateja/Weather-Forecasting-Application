@@ -241,7 +241,7 @@ GET /api/models/performance
 ## 📁 Project Structure
 
 ```
-Vijender Weather Forecasting App/
+Weather Forecasting App/
 ├── app.py                      # Main Flask application entry point
 ├── config.py                   # Configuration settings
 ├── routes.py                   # Flask routes and API endpoints
@@ -363,8 +363,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-**Developer**: Vijender  
-**Email**: your.email@example.com
+**Developer**: saiteja 
+**Email**: tejavoina@example.com
 
 ## 🗺️ Future Enhancements
 
@@ -392,7 +392,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ```bash
 git clone <repository-url>
-cd "Vijender Weather Forecasting App"
+cd "Weather Forecasting App"
 ```
 
 ### Step 2: Create Virtual Environment
@@ -648,7 +648,7 @@ The system uses weighted ensemble predictions:
 ## 📁 Project Structure
 
 ```
-Vijender Weather Forecasting App/
+Weather Forecasting App/
 ├── app.py                      # Main Flask application
 ├── config.py                   # Configuration settings
 ├── requirements.txt            # Python dependencies
@@ -820,9 +820,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer**: Vijender  
-**Email**: your.email@example.com  
-**Research Advisor**: [Advisor Name]
+**Project Maintainer**:saiteja
+**Email**: tejavoina@example.com  
 
 ## 📚 References
 
